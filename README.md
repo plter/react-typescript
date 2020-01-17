@@ -1,7 +1,6 @@
 # 视频学习资料  
 
 * 视频教程地址：[https://yunp.top/p/v/1504](https://yunp.top/p/v/1504)
-* 链接:[https://github.com/plter/react-typescript](https://github.com/plter/react-typescript)
 
 ## 讲解内容如下
 1. 项目创建        
